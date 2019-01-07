@@ -43,7 +43,7 @@ Price lists in [!INCLUDE[pn_dyn_365_field_service](../includes/pn-dyn-365-field-
   
 <a name="BKMK_AddFieldSvcPriceListItems"></a>   
 ## Add [!INCLUDE[pn_field_service](../includes/pn-field-service.md)] price list items  
- [!INCLUDE[pn_field_service](../includes/pn-field-service.md)] price list items let you associate service (or labor) type productsfrom the product catalogwith a price list, with properties that are relevant to labor products.  
+ [!INCLUDE[pn_field_service](../includes/pn-field-service.md)] price list items let you associate service (or labor) type products from the product catalog with a price list, with properties that are relevant to labor products.  
   
 1.  From the top menu, click the drop-down arrow next to the price list name that you created, and then click **Field Service Price List Item**.  
   
